@@ -8,7 +8,6 @@ body {
     letter-spacing: 0.02em;}
 
 a {
-    font-style: normal;
     text-decoration: none;
 }
 
@@ -45,6 +44,10 @@ ul {
 
 .list-navigation-studio:active {
     text-decoration: underline;
+}
+
+.list-address {
+    font-style: normal;
 }
 
 .links-address {
@@ -127,6 +130,7 @@ ul {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 /**Секція 4, Our Portfolio*/
@@ -146,6 +150,7 @@ ul {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 /** footer */
@@ -155,7 +160,7 @@ ul {
 }
 
 .footer-logo-studio {
-    color: #F4F4FD;
+    color: #f4f4fd;
 }
 
 .text-footer {
