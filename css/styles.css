@@ -19,7 +19,7 @@ ul {
 /** header */
 
 .logo {
-    color: #4D5AE5;
+    color: #4d5ae5;
     font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -30,7 +30,7 @@ ul {
 
 
 .logo-studio {
-    color: #2E2F42;
+    color: #2e2f42;
 }
 
 .list-navigation a {
@@ -61,11 +61,10 @@ ul {
 
 .section-hero {
     background: #2E2F42;
-}
+    text-align: center;}
 
 .title-section-hero {
     color: #FFFFFF;
-    text-align: center;
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
@@ -75,11 +74,11 @@ ul {
 .button-hero {
     color: #FFF;
     background-color: #4D5AE5;
-        font-family: inherit;
-        font-size: 16px;
-        font-weight: 500;
-        line-height: 1.5;
-        letter-spacing: 0.04em;
+    font-family: inherit;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
 }
 .button-hero:hover,
 .button-hero:focus {
@@ -90,11 +89,8 @@ ul {
 /**Секція 2, Our Advantages*/
 
 .visually-hidden {
-    margin: -1px;
-    border: 0;
     white-space: nowrap;
     clip-path: inset(100%);
-    clip: rect(0 0 0 0);
     overflow: hidden;
 }
 
